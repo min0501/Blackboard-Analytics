@@ -37,7 +37,7 @@
 - 주어진 만족도 데이터를 크게 접근성, 학습성, 직관성으로 구분하여 분석을 진행하여 해석에 도움을 줌
 - 다양한 시각화 방법을 활용하여 시각화를 진행함
 - 블랙보드에서 필요한 개선방안을 정리하여 프로토타입으로 제시함
-  ![image1]([https://steemitimages.com/0x0/https://static.tasteem.io/uploads/image/image/7289/content_994dbe3f-631b-4f76-9ee1-751c87c668dd.jpeg](https://github.com/user-attachments/assets/b9ae3aa0-d6d3-48e7-bfa3-3168bc51790e)) |![image2](https://github.com/user-attachments/assets/cb89771c-e85d-4086-8df3-2cfbcb5072ae)
+  ![image1](https://github.com/user-attachments/assets/3173aba5-01d9-400f-acc5-05ade059498d) |![image2](https://github.com/user-attachments/assets/cb89771c-e85d-4086-8df3-2cfbcb5072ae)
 --- | --- | 
 
   
