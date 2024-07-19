@@ -37,8 +37,10 @@
 - 주어진 만족도 데이터를 크게 접근성, 학습성, 직관성으로 구분하여 분석을 진행하여 해석에 도움을 줌
 - 다양한 시각화 방법을 활용하여 시각화를 진행함
 - 블랙보드에서 필요한 개선방안을 정리하여 프로토타입으로 제시함
-  ![image1](https://github.com/user-attachments/assets/3173aba5-01d9-400f-acc5-05ade059498d) |![image2](https://github.com/user-attachments/assets/cb89771c-e85d-4086-8df3-2cfbcb5072ae)
---- | --- | 
+[예시]
+![image](https://github.com/user-attachments/assets/c755a8e9-d257-4961-b7fb-5f1e8a470179)
+
+![image](https://github.com/user-attachments/assets/3db0088d-3396-48b2-8774-08b0b1f88b82)
 
   
 
