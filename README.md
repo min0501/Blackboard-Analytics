@@ -29,7 +29,6 @@
 ### 학부/대학원 비교 분석
 ![image](https://github.com/user-attachments/assets/8dfdefda-febd-4eb2-b87c-d8220aa406ab)
 
-![image](https://github.com/user-attachments/assets/8caf13eb-67f1-47e0-a9c7-eefd0991fcb7)
 
 <br/>
 
